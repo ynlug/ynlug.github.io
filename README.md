@@ -1,6 +1,6 @@
 # 云南Linux用户组
 
-## Yunnan LUG
+## 云南 LUG
 
 主页建设中...
 
